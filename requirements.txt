@@ -13,3 +13,4 @@ tensorflow==2.19.1
 tensorboard
 streamlit
 nltk
+langchain
