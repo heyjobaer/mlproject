@@ -4,3 +4,5 @@ ml/src/__pycache__
 ml/src/components/__pycache__
 venv/
 .DS_Store
+
+.env

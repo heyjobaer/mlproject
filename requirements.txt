@@ -22,3 +22,9 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-ollama
+python-dotenv
+langsmith
+streamlit
+langchain_core
+langchain-groq
+transformers
