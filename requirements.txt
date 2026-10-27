@@ -28,3 +28,4 @@ streamlit
 langchain_core
 langchain-groq
 transformers
+langchain_google_genai
