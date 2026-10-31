@@ -29,3 +29,5 @@ langchain_core
 langchain-groq
 transformers
 langchain_google_genai
+langgraph
+langgraph-cli[inmem]
