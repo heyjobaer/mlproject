@@ -24,7 +24,6 @@ langchain-text-splitters
 langchain-ollama
 python-dotenv
 langsmith
-streamlit
 langchain_core
 langchain-groq
 transformers
@@ -37,3 +36,4 @@ sentence-transformers
 tiktoken
 langchain-classic
 langchain-tavily
+tavily-python
