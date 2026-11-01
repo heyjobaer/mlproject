@@ -31,3 +31,9 @@ transformers
 langchain_google_genai
 langgraph
 langgraph-cli[inmem]
+faiss-cpu
+langchain-huggingface
+sentence-transformers
+tiktoken
+langchain-classic
+langchain-tavily
