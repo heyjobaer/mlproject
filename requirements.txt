@@ -37,3 +37,6 @@ tiktoken
 langchain-classic
 langchain-tavily
 tavily-python
+chromadb
+python-docx
+docx2txt
